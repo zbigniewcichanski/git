@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 add text for s55
+=======
+
+add foot in s53
+>>>>>>> s53
